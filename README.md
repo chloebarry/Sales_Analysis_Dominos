@@ -1,2 +1,4 @@
 # Sales_Analysis_Dominos
- Sales Analaysis of Domions
+
+
+Creating a data visulizastion in Power BI Desktop, using Excel and Dax. 
